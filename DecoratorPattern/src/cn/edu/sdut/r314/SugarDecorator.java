@@ -4,6 +4,7 @@ public class SugarDecorator extends BreadDecorator {
 
 	private int sugar = 5;
 	
+	// 继续发挥wrapper作用
 	public SugarDecorator(Bread breadToBeDecorated) {
 		super(breadToBeDecorated);
 	}
