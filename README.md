@@ -1,2 +1,2 @@
 # design-pattern-tutorial
-design pattern tutorial with java
+将项目import到eclipse即可执行相应的TestClient类
